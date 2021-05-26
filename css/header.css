@@ -1,0 +1,72 @@
+.header{
+  
+  background: url(../img/montanha.jpg) no-repeat;
+  background-size: cover;
+  padding-top: 32px;
+}
+
+.header .main-menu{
+  
+  text-align: center;
+}
+
+.header .main-menu .menu-item{
+
+    display: inline-block;
+    margin: 0 2px 32px 0;
+}
+
+.header .main-menu .menu-item a{
+  
+  color: white;
+  padding: 16px;
+  background: rgba(0,0,0, 0.1);
+  border-radius: 4px;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: background-color 0.5s;
+}
+
+.header .main-menu .menu-item a:hover{
+  
+  background-color: rgba(255, 127, 80, 0.753);
+}
+
+.header .jumbotron{
+  
+  padding: 20px 0 50px 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.header .panel-main{
+
+  color: white;
+  text-shadow: 4px 4px 10px black;
+}
+
+.header .jumbotron .title{
+
+  font-size: 3em;
+}
+
+.header .jumbotron .sub-title{
+
+  font-size: 2.6em;
+  color:rgb(255, 81, 37);
+  margin-top: 30px;
+}
+
+.header .jumbotron .panel-subscribe{
+
+  margin-top: 30px;
+}
+
+@media(min-width: 650px){
+
+  .header .jumbotron{
+
+    font-size: 28px;
+  }
+}
+
