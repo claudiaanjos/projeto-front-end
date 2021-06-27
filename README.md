@@ -1,6 +1,6 @@
 # site de Conferência de Montanhismo
 
-### Projeto desenvolvido para o curso *Front-end: Projeto de conclusão* com o instrutor Flávio Almeida.
+### Projeto desenvolvido para o curso *Front-end: Projeto de conclusão* com o instrutor Flávio Almeida (Alura).
 
 
 &nbsp;
