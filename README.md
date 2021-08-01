@@ -13,12 +13,10 @@ Para realização do projeto foi utilizada a bagagem dos cursos de HTML, CSS e J
 
 ### ⚒️  Tecnologias
 
-As ferramentas utilizadas no projeto foram:
-
-- HTML;
-- CSS;
-- JavaScript;
-- JQuery.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [jQuery](https://jquery.com/)
 
 &nbsp;
 
