@@ -7,15 +7,9 @@
 Uma página de conferência, que exibe informações do evento, palestrantes, formulário de contato entre outras informações e apresenta layout responsivo.
 Para realização do projeto foi utilizada a bagagem dos cursos de HTML, CSS e Javascript da formação de Front-end.
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
-
-### ⚒️  Tecnologias
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [jQuery](https://jquery.com/)
 
 &nbsp;
